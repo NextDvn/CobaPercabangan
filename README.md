@@ -1,6 +1,6 @@
 # Latihan soal
 
-# Percabangan #2
+# Percabangan #1
 
 # 6.A.
 
@@ -60,7 +60,8 @@ Jika variabel a tidak kurang dari 5, maka akan dicetak "nilai a lebih dari atau 
 ![Alt Text](https://github.com/NextDvn/CobaPercabangan/blob/master/Capture11.PNG)
 
 # B.
-Pertama menginput kode,lalu akan menghasilkan proses
+Pertama menginput kode,lalu akan menghasilkan proses:
+
 
 IF ELSE IF #1
 Jika a kurang dari 5, maka a akan dicetak
@@ -68,6 +69,8 @@ Jika a kurang dari 5, maka a akan dicetak
 Jika a sama dengan 5, maka a akan dicetak
 
 Jika a selain dari sifat dari kedua sifat diatas,maka akan dicetak "nilai a lebih dari 5"
+
+
 
 IF ELSE IF 2 #2
 Jika a kurang dari 2, maka a akan dicetak
@@ -200,6 +203,24 @@ Jika memilih bahan I (2), dan bahan II (3).maka hasilnya adalah "Telur Rebus"
 
 Jika memilih bahan I (3), otomatis program akan berhenti karena pilihan/syarat tidak ada dalam pilihan bahan I
 
+
+# TUGAS TAMBAHAN
+
+Jika kWh termasuk dalam golongan C
+
+![Alt Text](https://github.com/NextDvn/CobaPercabangan/blob/master/Capture32.PNG)
+
+Jika kWh termasuk dalam golongan B
+
+![Alt Text](https://github.com/NextDvn/CobaPercabangan/blob/master/Capture33.PNG)
+
+Jika kWh termasuk dalam golongan A
+
+![Alt Text](https://github.com/NextDvn/CobaPercabangan/blob/master/Capture34.PNG)
+
+Jika kWh tidak ada dalam pilihan/lebih dari kWh per bulan yang tersedia
+
+![Alt Text](https://github.com/NextDvn/CobaPercabangan/blob/master/Capture35.PNG)
 
 
 
