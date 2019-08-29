@@ -160,7 +160,33 @@ Sebaliknya jika a lebih dari 75, maka akan dicetak "kompeten"
 
 # Percabangan #2
 
-# 11.
+# 11.A.
+
+(1 & 1)
+![Alt Text](https://github.com/NextDvn/CobaPercabangan/blob/master/Capture25.PNG)
+
+(1 & 2)
+![Alt Text](https://github.com/NextDvn/CobaPercabangan/blob/master/Capture26.PNG)
+
+(1 & 3)
+![Alt Text](https://github.com/NextDvn/CobaPercabangan/blob/master/Capture27.PNG)
+
+(2 & 1)
+![Alt Text](https://github.com/NextDvn/CobaPercabangan/blob/master/Capture28.PNG)
+
+(2 & 2)
+![Alt Text](https://github.com/NextDvn/CobaPercabangan/blob/master/Capture29.PNG)
+
+(2 & 3)
+![Alt Text](https://github.com/NextDvn/CobaPercabangan/blob/master/Capture30.PNG)
+
+(3)
+![Alt Text](https://github.com/NextDvn/CobaPercabangan/blob/master/Capture31.PNG)
+
+# B.
+Pertama masukkan bahan I, lalu masukkan bahan II
+
+Jika memilih bahan I (1), dan bahan II (1).maka hasilnya adalah "
 
 
 
