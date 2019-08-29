@@ -186,7 +186,19 @@ Sebaliknya jika a lebih dari 75, maka akan dicetak "kompeten"
 # B.
 Pertama masukkan bahan I, lalu masukkan bahan II
 
-Jika memilih bahan I (1), dan bahan II (1).maka hasilnya adalah "
+Jika memilih bahan I (1), dan bahan II (1).maka hasilnya adalah "Milk Shake Banana"
+
+Jika memilih bahan I (1), dan bahan II (2).maka hasilnya adalah "Pisang Goreng"
+
+Jika memilih bahan I (1), dan bahan II (3).maka hasilnya adalah "Pisang Rebus"
+
+Jika memilih bahan I (2), dan bahan II (1).maka hasilnya adalah "Telur Mata Sapi"
+
+Jika memilih bahan I (2), dan bahan II (2).maka hasilnya adalah "Sandwich Telur"
+
+Jika memilih bahan I (2), dan bahan II (3).maka hasilnya adalah "Telur Rebus"
+
+Jika memilih bahan I (3), otomatis program akan berhenti karena pilihan/syarat tidak ada dalam pilihan bahan I
 
 
 
