@@ -98,7 +98,7 @@ Jika a selain dari sifat diatas,maka akan dicetak "nilai a lebih dari 6"
 # B.
 Pertama menginput kode,lalu akan menghasilkan proses
 
-Jika a kurang dari 7,maka "nilai a lebih dari 2"(jika a lebih dari 2 dan kurang dari 7; "nilai a kurang dari 4"(jika a kurang dari 4)
+Jika a kurang dari 7,maka "nilai a lebih dari 2"(jika a lebih dari 2 dan kurang dari 7), dan akan dicetak "nilai a kurang dari 4"(jika a kurang dari 4)
 
 Jika a tidak memenuhi syarat apapun dari syarat diatas, maka tidak akan dicetak
 
