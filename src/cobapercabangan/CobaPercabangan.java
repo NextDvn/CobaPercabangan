@@ -43,7 +43,7 @@ public class CobaPercabangan {
             
     } else System.out.println("Nilai a lebih dari atau sama dengan 5");
         
-    System.out.println("\nIF..ELSE.. 1");
+    System.out.println("\nIF..ELSE..IF..1");
         if(a < 5) {
             System.out.println("Nilai a kurang dari 5");
         } else if(a == 5) {
@@ -51,7 +51,7 @@ public class CobaPercabangan {
         } else
             System.out.println("Nilai a lebih dari 5");
         
-    System.out.println("\nIF..ELSE..2");
+    System.out.println("\nIF..ELSE..IF..ELSE..2");
         if(a < 2) {
             System.out.println("Nilai a kurang dari 2");
         } else if(a < 4) {
@@ -80,7 +80,7 @@ public class CobaPercabangan {
                 case 3:
                 case 4: System.out.println("Nilai a => 3 atau 4"); break;
                 case 5: System.out.println("Nilai a => 5"); break;
-                default: System .out.println("\nNilai a bukan antara 1-5");
+                default: System .out.println("Nilai a bukan antara 1-5");
             }
                     
                     int nilai;
