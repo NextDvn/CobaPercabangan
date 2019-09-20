@@ -38,10 +38,10 @@ public class Challenge2 {
              System.out.println("\n=====Mengkategorikan Rata-rata=====");
              System.out.println("~Rata-rata kurang dari 75 termasuk rendah\n~Rata-rata lebih dari 75 termasuk tinggi");
              if(ratarata < 75){
-                System.out.println("\nLmao noob\n!Anda termasuk rata-rata rendah.Awokawokawok!");
+                System.out.println("\nLmao noob\n!Anda termasuk rata-rata rendah.\nDengan nilai= "+"("+ratarata+")");
                
                 
-            }else System.out.println("\nWow pro player\n!Anda termasuk rata-rata tinggi!");
+            }else System.out.println("\nWow pro player\n!Anda termasuk rata-rata tinggi!\nDengan nilai= "+"("+ratarata+")");
     
                 
             
